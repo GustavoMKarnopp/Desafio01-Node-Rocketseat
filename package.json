@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/GustavoMKarnopp/Desafio01-Node-Rocketseat/issues"
   },
-  "homepage": "https://github.com/GustavoMKarnopp/Desafio01-Node-Rocketseat#readme"
+  "homepage": "https://github.com/GustavoMKarnopp/Desafio01-Node-Rocketseat#readme",
+  "dependencies": {
+    "csv-parse": "^5.5.5"
+  }
 }
