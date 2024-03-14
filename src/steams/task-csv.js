@@ -27,7 +27,7 @@ async function run(){
     }
 }
 
-fetch('http://localhost:3334/task', {
+fetch('http://localhost:3333/task', {
     method: 'POST',
     body: run(),
     headers: {
